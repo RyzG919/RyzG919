@@ -1,6 +1,8 @@
 ## Hi there 👋 😄
 - 💬 Physical Security SME aspiring to Cloud Engineer
 - 🔭 I’m currently working on ...L2C by GPS
+- 🌱 I’m currently learning ... All things Azur !
+
 <!--
 **RyzG919/RyzG919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
